@@ -2,8 +2,8 @@
 
 A responsive web application designed to help university students and administrative staff track graduation clearance requirements across key university offices.
 
-- **GitHub Repository:** https://github.com
-- **Live Application:** https://github.io
+- **GitHub Repository:** https://github.com/sharonnadia2004-rgb/student-clearance-checklist
+- **Live Application:** https://sharonnadia2004-rgb.github.io/student-clearance-checklist/
 
 ---
 
@@ -70,7 +70,7 @@ The application was tested across desktop (`>800px`), tablet (`≤800px`), and m
 ## 8. How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com.git
+   git clone https://github.com/sharonnadia2004-rgb/student-clearance-checklist.git
    ```
 2. Navigate into the project folder:
    ```bash
